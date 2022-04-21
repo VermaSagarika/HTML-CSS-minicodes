@@ -1,7 +1,7 @@
 # HTML-CSS-minicodes
 Simple HTML and CSS codes for daily practice and experimenting. 
 <br>
-Easy projects added each day. 
+Easy snippets to add to web development projects. 
 <br>
 This Repo focuses on HTML and CSS only.
 
